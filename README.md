@@ -28,7 +28,6 @@ This repository documents my day-by-day learning progress in Microsoft Excel. I 
 I am Abhilash GangojiPeta, currently learning Excel with the goal of mastering data handling, logic building, and project planning. This repository is my daily log and shows my consistency and dedication to self-learning.
 
 
-
 ## How to Use
 
 - Download any `.xlsx` file
