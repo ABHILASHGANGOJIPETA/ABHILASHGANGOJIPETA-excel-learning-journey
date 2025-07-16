@@ -10,6 +10,7 @@ This repository documents my day-by-day learning progress in Microsoft Excel. I 
 | Day 2 | excel_day2_date_time_functions.xlsx     | Date and time functions: TODAY, NOW, TEXT, DATEDIF                   |
 | Day 3 | excel_day3_workdays_deadlines.xlsx      | Working with workdays, holidays, deadlines                           |
 | Day 4 | excel_day4_text_logical_series.xlsx     | Text formulas, name extraction, LEFT, RIGHT, MID, FIND, PASTE SPECIAL, TRANSPOSE, SPACE ADDRESS, SERIES (rows, step value, date unit) |
+| Day 5 | excel_day5_text_cleaning_referencing.xlsx | Text cleaning (TRIM, CLEAN, SUBSTITUTE, REPLACE), Cell Referencing (Relative, Absolute, Mixed), Masked Phone Numbers |
 
 ## Topics Practiced
 
@@ -20,6 +21,9 @@ This repository documents my day-by-day learning progress in Microsoft Excel. I 
 - Workday and Calendar Functions: NETWORKDAYS, NETWORKDAYS.INTL, WORKDAY, WORKDAY.INTL  
 - Number Formatting: ROUND, ROUNDDOWN, ROUNDUP, TEXT  
 - Text and Logical Functions: LEFT, RIGHT, MID, LEN, FIND, SEARCH, CONCAT, LOWER, UPPER, PROPER  
+- Text Cleaning and Replacement: TRIM, CLEAN, SUBSTITUTE, REPLACE  
+- Cell Referencing Techniques: Relative, Absolute, and Mixed Referencing  
+- Data Masking Examples: Masking and formatting phone numbers using formulas  
 - Utility Features: PASTE SPECIAL, TRANSPOSE, SPACE ADDRESS, SERIES dialog box (Rows, Columns, Linear, Step value, Date unit)
 
 ## About Me
