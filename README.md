@@ -11,6 +11,7 @@ This repository documents my day-by-day learning progress in Microsoft Excel. I 
 | Day 3 | excel_day3_workdays_deadlines.xlsx      | Working with workdays, holidays, deadlines                           |
 | Day 4 | excel_day4_text_logical_series.xlsx     | Text formulas, name extraction, LEFT, RIGHT, MID, FIND, PASTE SPECIAL, TRANSPOSE, SPACE ADDRESS, SERIES (rows, step value, date unit) |
 | Day 5 | excel_day5_text_cleaning_referencing.xlsx | Text cleaning (TRIM, CLEAN, SUBSTITUTE, REPLACE), Cell Referencing (Relative, Absolute, Mixed), Masked Phone Numbers |
+| Day 6 | excel_day6_text_coloumn_tools_Flashfill_sorting.xlsx      | Text to Columns, Flash Fill, Find & Replace, and Sorting Techniques (Single, Multilevel, Custom) |
 
 ## Topics Practiced
 
@@ -24,7 +25,11 @@ This repository documents my day-by-day learning progress in Microsoft Excel. I 
 - Text Cleaning and Replacement: TRIM, CLEAN, SUBSTITUTE, REPLACE  
 - Cell Referencing Techniques: Relative, Absolute, and Mixed Referencing  
 - Data Masking Examples: Masking and formatting phone numbers using formulas  
-- Utility Features: PASTE SPECIAL, TRANSPOSE, SPACE ADDRESS, SERIES dialog box (Rows, Columns, Linear, Step value, Date unit)
+- Utility Features: PASTE SPECIAL, TRANSPOSE, SPACE ADDRESS, SERIES dialog box (Rows, Columns, Linear, Step value, Date unit)  
+- Text to Columns: Delimited Characters, Fixed Width  
+- Find & Replace: CTRL + F (Find), CTRL + H (Replace)  
+- Flash Fill: Auto-fill initials and email patterns using CTRL + E  
+- Sorting: Ascending/Descending, Multilevel, Custom Sorting
 
 ## About Me
 
