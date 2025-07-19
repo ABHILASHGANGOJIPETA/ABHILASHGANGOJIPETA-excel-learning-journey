@@ -37,6 +37,7 @@ This repository documents my day-by-day learning progress in Microsoft Excel. I 
   - Relative Date Filters (today, yesterday, next week)  
   - Text Filters (contains, begins with, ends with)  
   - Copy to Another Location (using Advanced Filter)
+- In this assignment, I analyzed employee salary data using **Excel Name Ranges** and key descriptive functions.
 
 ## About Me
 
