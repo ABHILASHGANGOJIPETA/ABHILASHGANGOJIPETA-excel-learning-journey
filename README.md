@@ -13,6 +13,7 @@ This repository documents my day-by-day learning progress in Microsoft Excel. I 
 | Day 5 | excel_day5_text_cleaning_referencing.xlsx      | Text cleaning (TRIM, CLEAN, SUBSTITUTE, REPLACE), Cell Referencing (Relative, Absolute, Mixed), Masked Phone Numbers |
 | Day 6 | excel_day6_text_coloumn_tools_Flashfill_sorting.xlsx | Text to Columns, Flash Fill, Find & Replace, and Sorting Techniques (Single, Multilevel, Custom) |
 | Day 7 | excel_day7_filters.xlsx                        | Filters in Excel: Number Filters, Date Filters, Relative Date Filters, Text Filters, Copy to Another Location |
+| Day 8 | excel_day8_logical_operators.xlsx              | Logical Operators (AND, OR, NOT), Bonus & PT Eligibility, Extra Pay and Allowances |
 
 ## Topics Practiced
 
@@ -36,8 +37,10 @@ This repository documents my day-by-day learning progress in Microsoft Excel. I 
   - Date Filters (before, after, this month, last week)  
   - Relative Date Filters (today, yesterday, next week)  
   - Text Filters (contains, begins with, ends with)  
-  - Copy to Another Location (using Advanced Filter)
-- In this assignment, I analyzed employee salary data using **Excel Name Ranges** and key descriptive functions.
+  - Copy to Another Location (using Advanced Filter)  
+- In this assignment, I analyzed employee salary data using **Excel Name Ranges** and key descriptive functions.  
+- **Logical Operators**:  
+  - Used `AND`, `OR`, and `NOT` to calculate bonus eligibility, check status, apply conditions on multiple salary components like PT, HRA, and EXTRA PAY.
 
 ## About Me
 
