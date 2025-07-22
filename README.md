@@ -14,6 +14,7 @@ This repository documents my day-by-day learning progress in Microsoft Excel. I 
 | Day 6 | excel_day6_text_coloumn_tools_Flashfill_sorting.xlsx | Text to Columns, Flash Fill, Find & Replace, and Sorting Techniques (Single, Multilevel, Custom) |
 | Day 7 | excel_day7_filters.xlsx                        | Filters in Excel: Number Filters, Date Filters, Relative Date Filters, Text Filters, Copy to Another Location |
 | Day 8 | excel_day8_logical_operators.xlsx              | Logical Operators (AND, OR, NOT), Bonus & PT Eligibility, Extra Pay and Allowances |
+| Day 9 | excel_day9_conditional_formatting.xlsx         | Conditional Formatting: Color Scales, Data Bars, Icon Sets, New Rule Types, and Data Validation |
 
 ## Topics Practiced
 
@@ -32,15 +33,37 @@ This repository documents my day-by-day learning progress in Microsoft Excel. I 
 - Find & Replace: CTRL + F (Find), CTRL + H (Replace)  
 - Flash Fill: Auto-fill initials and email patterns using CTRL + E  
 - Sorting: Ascending/Descending, Multilevel, Custom Sorting  
-- **Filters**:  
-  - Number Filters (greater than, top 10, between)  
-  - Date Filters (before, after, this month, last week)  
-  - Relative Date Filters (today, yesterday, next week)  
-  - Text Filters (contains, begins with, ends with)  
-  - Copy to Another Location (using Advanced Filter)  
-- In this assignment, I analyzed employee salary data using **Excel Name Ranges** and key descriptive functions.  
-- **Logical Operators**:  
-  - Used `AND`, `OR`, and `NOT` to calculate bonus eligibility, check status, apply conditions on multiple salary components like PT, HRA, and EXTRA PAY.
+
+### Filters
+- Number Filters (greater than, top 10, between)  
+- Date Filters (before, after, this month, last week)  
+- Relative Date Filters (today, yesterday, next week)  
+- Text Filters (contains, begins with, ends with)  
+- Copy to Another Location (using Advanced Filter)  
+
+### Logical Operators
+- Used `AND`, `OR`, and `NOT` to calculate bonus eligibility, check status, apply conditions on multiple salary components like PT, HRA, and EXTRA PAY.
+
+### Conditional Formatting (Day 9)
+- Format all cells based on their values
+- Format only cells that contain specific text, numbers, or dates
+- Top/Bottom N ranked values
+- Above or below average highlighting
+- Duplicate and unique value formatting
+- Custom formula-based formatting (e.g., `=A1>100`)
+
+### Advanced Visual Formatting
+- 2-Color Scales: Apply gradients between two colors  
+- 3-Color Scales: Add a midpoint color to the gradient  
+- Data Bars: Visual bars representing value magnitude within cells  
+- Icon Sets: Use icons (arrows, flags, etc.) based on cell value thresholds  
+
+### Data Validation
+- Restrict inputs using:
+  - Drop-down lists
+  - Number ranges
+  - Date ranges
+  - Custom validation formulas
 
 ## About Me
 
