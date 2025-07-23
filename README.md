@@ -76,7 +76,7 @@ I am Abhilash Gangojipeta, currently learning Excel with the goal of mastering d
 - Download any `.xlsx` file  
 - Open in Microsoft Excel  
 - Explore the formulas and logic in each sheet  
-- Use them for your own practice or reference  
+- Use them for your own practice or reference 
 
 ## Note
 
