@@ -16,6 +16,7 @@ This repository documents my day-by-day learning progress in Microsoft Excel. I 
 | Day 8 | excel_day8_logical_operators.xlsx                  | Logical Operators (AND, OR, NOT), Bonus & PT Eligibility, Extra Pay and Allowances |
 | Day 9 | excel_day9_conditional_formatting.xlsx             | Conditional Formatting: Color Scales, Data Bars, Icon Sets, New Rule Types, and Data Validation |
 | Day 10 | excel_day10_data_validation_weekend_logic.xlsx    | Data Validation: Drop-down lists, gender entry, weekend-aware date correction using `=IF(WEEKDAY(T2,2)>5, T2+2, T2)` |
+| Day 11 | excel_day11_lookup_functions.xlsx                 | Lookup functions: LOOKUP, VLOOKUP, XLOOKUP, INDEX, MATCH              |
 
 ## Topics Practiced
 
