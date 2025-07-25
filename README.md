@@ -1,3 +1,4 @@
+
 # 📘 Daily Excel Learning Journey
 
 This repository documents my **day-by-day learning progress in Microsoft Excel**. I am starting from the basics and practicing important functions, uploading one Excel file each day.
@@ -118,21 +119,28 @@ Used `AND`, `OR`, and `NOT` to:
 
 - Skip weekends using:
 ```excel
-  =IF(WEEKDAY(T2,2)>5, T2+2, T2)
+=IF(WEEKDAY(T2,2)>5, T2+2, T2)
+```
+
+---
 
 ## 👨‍💻 About Me
-I am Abhilash Gangojipeta, currently learning Excel with the goal of mastering data handling, logic building, and project planning.
+
+I am **Abhilash Gangojipeta**, currently learning Excel with the goal of mastering data handling, logic building, and project planning.  
 This repository is my daily log and showcases my consistency and dedication to self learning.
 
+---
+
 ## 💡 How to Use
-Download any .xlsx file from the repository
 
-Open the file in Microsoft Excel
+1. **Download** any `.xlsx` file from the repository  
+2. **Open** the file in Microsoft Excel  
+3. **Explore** the formulas, formatting, and logic used in each sheet  
+4. **Practice or reuse** the methods to improve your own Excel skills
 
-Explore the formulas, formatting, and logic used in each sheet
-
-Practice or reuse the methods to improve your own Excel skills
+---
 
 ## 📣 Note
-This is an open learning project.
+
+This is an **open learning project**.  
 Feel free to explore, clone, or use these files for your own Excel learning journey.
