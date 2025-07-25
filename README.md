@@ -118,8 +118,7 @@ Used `AND`, `OR`, and `NOT` to:
 
 - Skip weekends using:
 ```excel
-=IF(WEEKDAY(T2,2)>5, T2+2, T2)
-
+  =IF(WEEKDAY(T2,2)>5, T2+2, T2)
 
 ## 👨‍💻 About Me
 I am Abhilash Gangojipeta, currently learning Excel with the goal of mastering data handling, logic building, and project planning.
