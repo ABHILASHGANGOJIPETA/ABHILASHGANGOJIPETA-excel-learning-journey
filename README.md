@@ -1,4 +1,3 @@
-
 # 📘 Daily Excel Learning Journey
 
 This repository documents my **day-by-day learning progress in Microsoft Excel**. I am starting from the basics and practicing important functions, uploading one Excel file each day.
@@ -21,6 +20,7 @@ This repository documents my **day-by-day learning progress in Microsoft Excel**
 | Day 10  | excel_day10_data_validation_weekend_logic.xlsx      | Data Validation: Drop-down lists, gender entry, weekend-aware date correction using `=IF(WEEKDAY(T2,2)>5, T2+2, T2)` |
 | Day 11  | excel_day11_lookup_functions.xlsx                   | Lookup functions: LOOKUP, VLOOKUP, XLOOKUP, INDEX, MATCH              |
 | Day 12  | excel_day12_advanced_lookup_dynamic.xlsx            | Advanced Lookup Techniques: VLOOKUP with CHOOSE, OFFSET-MATCH dynamic range, HLOOKUP with MATCH, and preparing for future data entries |
+| Day 13 | excel_day13_Dataextraction_Pivotetables.xlsx | Data Extraction, Pivot Table Analysis, Region-wise Summary, Manager Mapping, Return Status Integration|
 
 ---
 
@@ -124,6 +124,17 @@ Used `AND`, `OR`, and `NOT` to:
 
 ---
 
+## Data Extraction & Pivot Tables
+
+In the file demonstrates:
+- 📌 **Pivot Tables**: Average Sales summarized by Region and Segment.
+- 🔍 **Data Filtering**: Segment/Region-specific extraction using filters.
+- 👤 **Manager Mapping**: Region-wise manager added using a lookup table.
+- 🔁 **Return Status Integration**: Merged order return data for analysis.
+- 🧹 **Final Dataset**: Clean, enriched summary with new columns (`Manager_name`, `return_status`).
+
+---
+
 ## 👨‍💻 About Me
 
 I am **Abhilash Gangojipeta**, currently learning Excel with the goal of mastering data handling, logic building, and project planning.  
@@ -144,3 +155,4 @@ This repository is my daily log and showcases my consistency and dedication to s
 
 This is an **open learning project**.  
 Feel free to explore, clone, or use these files for your own Excel learning journey.
+---
