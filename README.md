@@ -1,3 +1,4 @@
+
 # 📘 Daily Excel Learning Journey
 
 This repository documents my **day-by-day learning progress in Microsoft Excel**. I am starting from the basics and practicing important functions, uploading one Excel file each day.
@@ -20,7 +21,8 @@ This repository documents my **day-by-day learning progress in Microsoft Excel**
 | Day 10  | excel_day10_data_validation_weekend_logic.xlsx      | Data Validation: Drop-down lists, gender entry, weekend-aware date correction using `=IF(WEEKDAY(T2,2)>5, T2+2, T2)` |
 | Day 11  | excel_day11_lookup_functions.xlsx                   | Lookup functions: LOOKUP, VLOOKUP, XLOOKUP, INDEX, MATCH              |
 | Day 12  | excel_day12_advanced_lookup_dynamic.xlsx            | Advanced Lookup Techniques: VLOOKUP with CHOOSE, OFFSET-MATCH dynamic range, HLOOKUP with MATCH, and preparing for future data entries |
-| Day 13 | excel_day13_Dataextraction_Pivotetables.xlsx | Data Extraction, Pivot Table Analysis, Region-wise Summary, Manager Mapping, Return Status Integration|
+| Day 13  | excel_day13_Dataextraction_Pivotetables.xlsx        | Data Extraction, Pivot Table Analysis, Region-wise Summary, Manager Mapping, Return Status Integration |
+| Day 14  | excel_day14_powerquery_cleaning_pivot.xlsx          | Power Query Editor: Data Cleaning, Merging Returns/People/Orders Tables, and Pivot Table Summaries on Orders, Returns, and Sales by Person |
 
 ---
 
@@ -124,35 +126,49 @@ Used `AND`, `OR`, and `NOT` to:
 
 ---
 
-## Data Extraction & Pivot Tables
+## 📊 Data Extraction & Pivot Tables
 
 In the file demonstrates:
-- 📌 **Pivot Tables**: Average Sales summarized by Region and Segment.
-- 🔍 **Data Filtering**: Segment/Region-specific extraction using filters.
-- 👤 **Manager Mapping**: Region-wise manager added using a lookup table.
-- 🔁 **Return Status Integration**: Merged order return data for analysis.
-- 🧹 **Final Dataset**: Clean, enriched summary with new columns (`Manager_name`, `return_status`).
+
+📌 Pivot Tables: Average Sales summarized by Region and Segment  
+🔍 Data Filtering: Segment/Region-specific extraction using filters  
+👤 Manager Mapping: Region-wise manager added using a lookup table  
+🔁 Return Status Integration: Merged order return data for analysis  
+🧹 Final Dataset: Clean, enriched summary with new columns (Manager_name, return_status)
+
+---
+
+## 🔧 Power Query Editor
+
+- Cleaned multiple sheets (Orders, Returns, People) using Power Query Editor  
+- Applied data transformations:
+  - Removed nulls, renamed columns, ensured correct data types  
+  - Merged Returns into Orders by Order ID  
+  - Mapped region managers from the People table  
+- Transferred cleaned data to Excel  
+- Built pivot tables to summarize:
+  - Order quantity, sales, and profit by region and segment  
+  - Return trends by category and responsible person
 
 ---
 
 ## 👨‍💻 About Me
 
-I am **Abhilash Gangojipeta**, currently learning Excel with the goal of mastering data handling, logic building, and project planning.  
+I am Abhilash Gangojipeta, currently learning Excel with the goal of mastering data handling, logic building, and project planning.  
 This repository is my daily log and showcases my consistency and dedication to self learning.
 
 ---
 
 ## 💡 How to Use
 
-1. **Download** any `.xlsx` file from the repository  
-2. **Open** the file in Microsoft Excel  
-3. **Explore** the formulas, formatting, and logic used in each sheet  
-4. **Practice or reuse** the methods to improve your own Excel skills
+- Download any `.xlsx` file from the repository  
+- Open the file in Microsoft Excel  
+- Explore the formulas, formatting, and logic used in each sheet  
+- Practice or reuse the methods to improve your own Excel skills
 
 ---
 
 ## 📣 Note
 
-This is an **open learning project**.  
+This is an open learning project.  
 Feel free to explore, clone, or use these files for your own Excel learning journey.
----
