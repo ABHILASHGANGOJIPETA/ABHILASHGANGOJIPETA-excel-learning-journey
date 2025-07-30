@@ -7,7 +7,7 @@ This repository documents my **day-by-day learning progress in Microsoft Excel**
 
 ## 📂 Files Included
 
-| Day     | File Name                                           | Topic                                                                 |
+| Day     | File Name                                           | Topic                                                                |
 |----------|----------------------------------------------------|------------------------------------------------------------------------|
 | Day 1   | excel_day1_basic_functions.xlsx                     | Basic formulas: SUM, AVERAGE, IF, COUNT                               |
 | Day 2   | excel_day2_date_time_functions.xlsx                 | Date and time functions: TODAY, NOW, TEXT, DATEDIF                    |
