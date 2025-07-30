@@ -23,6 +23,7 @@ This repository documents my **day-by-day learning progress in Microsoft Excel**
 | Day 12  | excel_day12_advanced_lookup_dynamic.xlsx            | Advanced Lookup Techniques: VLOOKUP with CHOOSE, OFFSET-MATCH dynamic range, HLOOKUP with MATCH, and preparing for future data entries |
 | Day 13  | excel_day13_Dataextraction_Pivotetables.xlsx        | Data Extraction, Pivot Table Analysis, Region-wise Summary, Manager Mapping, Return Status Integration |
 | Day 14  | excel_day14_powerquery_cleaning_pivot.xlsx          | Power Query Editor: Data Cleaning, Merging Returns/People/Orders Tables, and Pivot Table Summaries on Orders, Returns, and Sales by Person |
+| Day 15  | excel_day15_vba_macros_udf.xlsm                     | VBA Macros (Recorded), User Defined Functions (UDFs), Custom Automation Tasks |
 
 ---
 
