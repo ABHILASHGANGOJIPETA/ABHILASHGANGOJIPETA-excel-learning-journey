@@ -30,7 +30,7 @@ This repository documents my **day-by-day learning progress in Microsoft Excel**
 ## ✅ Topics Practiced
 
 ### ➕ Math and Statistical Functions
-- SUM, AVERAGE, MEDIAN, MODE, MAX, MIN
+- SUM, AVERAGE, MEDIAN, MODE, MAX, MIN.
 
 ### 🔢 Counting Functions
 - COUNT, COUNTA, COUNTBLANK, COUNTIF, COUNTIFS
