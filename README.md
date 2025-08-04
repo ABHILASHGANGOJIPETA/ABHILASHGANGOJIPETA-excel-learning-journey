@@ -24,6 +24,8 @@ This repository documents my **day-by-day learning progress in Microsoft Excel**
 | Day 13  | excel_day13_Dataextraction_Pivotetables.xlsx        | Data Extraction, Pivot Table Analysis, Region-wise Summary, Manager Mapping, Return Status Integration |
 | Day 14  | excel_day14_powerquery_cleaning_pivot.xlsx          | Power Query Editor: Data Cleaning, Merging Returns/People/Orders Tables, and Pivot Table Summaries on Orders, Returns, and Sales by Person |
 | Day 15  | excel_day15_vba_macros_udf.xlsm                     | VBA Macros (Recorded), User Defined Functions (UDFs), Custom Automation Tasks |
+| Day 16  | excel_day16_userform_vba.xlsm                       | VBA UserForm: Input Form, Submit/Reset Logic                         |
+
 
 ---
 
@@ -152,6 +154,52 @@ In the file demonstrates:
   - Return trends by category and responsible person
 
 ---
+
+🔧 VBA & Macros
+
+🧾 **VBA Macros**
+- Recorded common actions using Excel Macro Recorder
+- Created Custom UDFs (User Defined Functions), such as:
+  - Bonus calculation logic
+  - String manipulation (e.g., initials, masking)
+
+🧾 **VBA UserForm**
+Created a data entry **UserForm** using `TextBoxes` with:
+
+- **Inputs:** Name, Age, Gender
+- **Submit:** 
+  - Writes data to the next available row
+  - Clears form
+  - Focuses on the first input
+- **Reset:** 
+  - Clears all fields
+  - Resets focus to Name field
+
+### 📌 Sample VBA Code:
+
+```vba
+Private Sub Label4_Click()
+    ActiveCell.Value = TextBox1.Text
+    ActiveCell.Offset(0, 1).Value = TextBox2.Text
+    ActiveCell.Offset(0, 2).Value = TextBox3.Text
+    ActiveCell.Offset(1, 0).Select
+
+    TextBox1.Text = ""
+    TextBox2.Text = ""
+    TextBox3.Text = ""
+    TextBox1.SetFocus
+
+    MsgBox "Application Submitted"
+End Sub
+
+Private Sub Label5_Click()
+    TextBox1.Text = ""
+    TextBox2.Text = ""
+    TextBox3.Text = ""
+    TextBox1.SetFocus
+End Sub
+```
+
 
 ## 👨‍💻 About Me
 
